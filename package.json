@@ -1,0 +1,17 @@
+{
+  "name": "anki-vocab",
+  "version": "1.0.0",
+  "description": "Lookup definitions and format output for Anki cards",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "node-wordnet": "^0.1.12",
+    "wordnet-db": "^3.1.6"
+  },
+  "keywords": [
+    "anki",
+    "vocabulary"
+  ],
+  "author": "Sam Simmons <sam@samiconductor.com>",
+  "license": "ISC"
+}
